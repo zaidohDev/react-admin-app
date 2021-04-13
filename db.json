@@ -1,0 +1,65 @@
+{
+  "processes": [
+    {
+      "title": "Contribuição Sindical Rural é constitucional, reafirma STF",
+      "body": "O Supremo Tribunal Federal (STF) reafirmou sua jurisprudência sobre a constitucionalidade da Contribuição Sindical Rural, instituída pelo Decreto-Lei 1.661/1971. A decisão foi tomada na análise do Recurso Extraordinário (RE) 883542, em que o Plenário Virtual reconheceu a repercussão geral da questão e reafirmou entendimento consolidado do Tribunal sobre o .",
+      "processNumber": "RE 883542",
+      "publishedAt": "2020-06-19",
+      "id": 3
+    },
+    {
+      "title": "Contribuição Sindical Rural é constitucional, reafirma STF",
+      "body": "O Supremo Tribunal Federal (STF) reafirmou sua jurisprudência sobre a constitucionalidade da Contribuição Sindical Rural, instituída pelo Decreto-Lei 1.661/1971. A decisão foi tomada na análise do Recurso Extraordinário (RE) 883542, em que o Plenário Virtual reconheceu a repercussão geral da questão e reafirmou entendimento consolidado do Tribunal sobre o .",
+      "processNumber": "RE 883542",
+      "publishedAt": "2018-06-19",
+      "id": 2
+    },
+    {
+      "title": "Contribuição Sindical Rural é constitucional, reafirma STF",
+      "body": "O Supremo Tribunal Federal (STF) reafirmou sua jurisprudência sobre a constitucionalidade da Contribuição Sindical Rural, instituída pelo Decreto-Lei 1.661/1971. A decisão foi tomada na análise do Recurso Extraordinário (RE) 883542, em que o Plenário Virtual reconheceu a repercussão geral da questão e reafirmou entendimento consolidado do Tribunal sobre o .",
+      "processNumber": "RE 883542",
+      "publishedAt": "2017-06-19",
+      "id": 1
+    }
+  ],
+  "clients": [
+    {
+      "id": "3",
+      "name": "Daniel de Almeida",
+      "email": "danfealmeida@gmail.com",
+      "website": "www.globo.com"
+    },
+    {
+      "id": "2",
+      "name": "Ana Bueno",
+      "email": "ana@gmail.com",
+      "website": "www.uol.com.br"
+    },
+    {
+      "id": "1",
+      "name": "Jose Abel",
+      "email": "jose@gmail.com",
+      "website": "www.cnn.com"
+    }
+  ],
+  "conferences": [
+    {
+      "id": "3",
+      "scheduling": "2021-04-23",
+      "linkConference": "linkdaconferencia.com.br/conference03",
+      "processNumber": "2001.234-45.8.0001"
+    },
+    {
+      "id": "2",
+      "scheduling": "2020-04-23",
+      "linkConference": "linkdaconferencia.com.br/conference02",
+      "processNumber": "2001.355-44.8.0001"
+    },
+    {
+      "id": "1",
+      "scheduling": "2021-06-23",
+      "linkConference": "linkdaconferencia.com.br/conference01",
+      "processNumber": "2001.234-55.8.0001"
+    }
+  ]
+}
